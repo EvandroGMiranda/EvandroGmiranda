@@ -1,8 +1,5 @@
 
 
-
-
-
 ### Olá Meu Nome é Evandro Gomes Miranda  ✌️ 
 <br/>
 

@@ -1,6 +1,6 @@
 
 
-stayle={{backgroundcolor="black"}}
+
 
 
 ### Olá Meu Nome é Evandro Gomes Miranda  ✌️ 

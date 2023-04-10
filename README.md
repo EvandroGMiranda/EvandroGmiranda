@@ -4,12 +4,12 @@
 <br/>
 <h4> Entre em contato!! </h4>
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55 11 99407-8480)
+[![Whatsapp](hattps://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55 11 99407-8480)]
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-miranda/)
 
 <br/>
 
-![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroGMiranda&show_icons=true&theme=gruvbox)
+[![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroGMiranda&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroGMiranda&hide=javascript,html)](https://github.com/EvandroGMiranda)
 
 ## Tecnologias que uso no dia a dia!

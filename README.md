@@ -10,6 +10,7 @@
 <br/>
 
 [![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroGMiranda&show_icons=true&theme=gruvbox)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroGMiranda&hide=javascript,html)](https://github.com/EvandroGMiranda)
 
 ## Tecnologias que uso no dia a dia!
